@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sitemesh>
+	<mapping path="/Login" decorator="/WEB-INF/views/pages/Home.jsp"/>
+	<mapping path="/Login" decorator="/WEB-INF/views/pages/Login.jsp"/>
+	<mapping path="/Profile" decorator="/WEB-INF/views/pages/Profile.jsp"/>
+	<mapping path="/Product" decorator="/WEB-INF/views/pages/Product.jsp"/>
+    <mapping path="/TransactionHistory" decorator="/WEB-INF/views/pages/TransactionHistory.jsp"/>
+</sitemesh>
